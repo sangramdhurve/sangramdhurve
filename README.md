@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sangramdhurve
-- 👀 I’m interested in Computer Vison
-- 🌱 I’m currently Practicing Computer Vison and Architectures including Data Science.
-- 💞️ I’m looking to collaborate on with good team
+- 👀 I’m interested in AI/ML and Computer Vision
+- 🌱 I’m currently Practicing Computer Vision and Architecture including Data Science.
+- 💞️ I’m looking to collaborate with a good team
 - 📫 How to reach me dh.sangram@gmail.com
 
 <!---
